@@ -1,6 +1,6 @@
 # Application Evaluation System
 
-This system processes and ranks applications submitted via Outlook Mail using OpenAI's GPT API based on client-defined criteria. The system is modular to allow easy updates for different email providers.
+This system processes and ranks applications submitted via Outlook Mail using OpenAI's GPT API based on defined criteria. The system is modular to allow easy updates for different email providers.
 
 ## Features
 - Fetch applications from Outlook using Microsoft Graph API.
